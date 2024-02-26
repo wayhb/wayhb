@@ -4,11 +4,11 @@
 
 ### :woman_technologist: Обо мне:
 
-Я начинающий backend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Я backend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 - :book: Изучаю книгу Герберта Шилдта "C# 4.0: Полное руководство"
 
-- :zap: Хочу освоить новую професcию и найти работу.
+- :zap: На данный момент восполняю пробелы в знаниях посредством изучения новых тем на языке C#
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-adelya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/wayyhb) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:adelya5mukomashina@gmail.com)
 
