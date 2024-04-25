@@ -6,9 +6,8 @@
 
 Я backend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-- :book: Изучаю книгу Герберта Шилдта "C# 4.0: Полное руководство"
 
-- :zap: На данный момент восполняю пробелы в знаниях посредством изучения новых тем на языке C#
+- :zap: На данный момент ищу работу)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-adelya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/wayyhb) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:adelya5mukomashina@gmail.com)
 
